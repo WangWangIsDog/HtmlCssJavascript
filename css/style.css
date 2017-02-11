@@ -1,1 +1,58 @@
+* {
+	box-sizing: border-box;
+}
 
+body {
+   margin: 0;
+
+}
+
+h1 {
+	text-align: center;
+}
+
+#box {
+	background-color: gray;
+	padding: 0px 0px 0px 0px;
+	border: 1px solid black;
+	width: 30%;
+	float:left;
+	margin: 0px 10px 10px 10px;
+
+	
+}
+
+#subtitle1 {
+	background-color: pink;
+	padding: 10px 0px 10px 0px;
+	border: 1px solid black;
+	width: 130px;
+	float: right;
+	text-align: center;
+
+}
+
+#subtitle2 {
+	background-color: red;
+	padding: 10px 0px 10px 0px;
+	border: 1px solid black;
+	width: 130px;
+	float: right;
+	text-align: center;
+
+}
+
+#subtitle3 {
+	background-color: gold;
+	padding: 10px 0px 10px 0px;
+	border: 1px solid black;
+	width: 130px;
+	float: right;
+	text-align: center;
+
+}
+
+#content {
+	float: right;
+	margin: 10px;
+}
